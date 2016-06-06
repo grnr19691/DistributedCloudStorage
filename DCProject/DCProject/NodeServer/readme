@@ -1,0 +1,5 @@
+#keep all the files in the same folder and run the script
+#use Java 1.7 or more version for compiling java files
+#copy this  folder in home directory of  all the  peer or node  machines
+#port 1099 should not be used by other services  
+sh ServerNode.sh 

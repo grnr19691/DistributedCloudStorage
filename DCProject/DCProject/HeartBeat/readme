@@ -1,0 +1,3 @@
+#copy this folder in home directory of the  peer machine or node machine 
+# then run the script  in background 
+sh h.sh & 

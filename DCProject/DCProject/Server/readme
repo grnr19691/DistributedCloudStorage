@@ -1,0 +1,7 @@
+
+#this folder belongs to centralized server 
+#make one machine centralized server and run the script
+# copy this folder and keept it home directory of centralized server 
+#make one server centalized server and other nodes as peer server 
+#port 1099 should not be used by other services 
+sh Server.sh  

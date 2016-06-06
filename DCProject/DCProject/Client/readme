@@ -1,0 +1,12 @@
+#copy this folder to home directory of  client machine 
+# and then run the script 
+sh Client.sh
+then stop it 
+# then  after that 
+#comment the line "rmic FileImp" in Client.sh 
+#comment the line  "rmic NodeServerImpl" in Client.sh 
+then again run the script 
+sh Client.sh 
+#now you will not get the warning messsage 
+# test files are given  
+tempfile1-6 in this folder 
